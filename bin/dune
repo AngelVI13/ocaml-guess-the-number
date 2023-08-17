@@ -1,0 +1,4 @@
+(executable
+ (public_name dtest)
+ (name main)
+ (libraries dtest graphics))
